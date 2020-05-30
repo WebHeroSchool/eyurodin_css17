@@ -1,0 +1,35 @@
+@media (min-width:320px) {
+ .hello {
+    font-size: 10px;
+  } 
+}
+
+@media (min-width:481px) {
+  .hello {
+    font-size: 20px;
+     } 
+}
+
+@media (min-width:641px) {
+    .hello {
+       font-size: 30px;
+     } 
+   }
+
+@media (min-width:961px) {
+ .hello {
+    font-size: 40px;
+  } 
+}
+
+@media (min-width:1025px) {
+    .hello {
+       font-size: 50px;
+     } 
+   }
+
+@media (min-width:1281px) {
+ .hello {
+    font-size: 60px;
+  } 
+}
